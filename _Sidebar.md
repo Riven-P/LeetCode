@@ -1,3 +1,12 @@
 # 题型
+* [二分](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E4%BA%8C%E5%88%86.md)  
+* [分治](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E5%88%86%E6%B2%BB.md)  
+* [动态规划](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
+* [双指针](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E5%8F%8C%E6%8C%87%E9%92%88.md)  
+* [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E5%93%88%E5%B8%8C%E8%A1%A8.md)  
+* [回文串问题](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E5%9B%9E%E6%96%87%E4%B8%B2%E9%97%AE%E9%A2%98.md)
 * [数学](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%95%B0%E7%BB%84)  
+* [模拟](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E6%A8%A1%E6%8B%9F.md)  
+* [滑动窗口](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md) 
+* [递归](https://github.com/SharingSource/LogicStack-LeetCode/blob/main/Index/%E9%80%92%E5%BD%92.md) 
 * [链表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%93%BE%E8%A1%A8)  
