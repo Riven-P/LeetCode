@@ -20,6 +20,7 @@
 
 * 区间求和
    * [前缀和](https://github.com/SharingSource/LogicStack-LeetCode/wiki/前缀和)
+   * [差分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/差分)
    * [树状数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树状数组)
 
 * [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
