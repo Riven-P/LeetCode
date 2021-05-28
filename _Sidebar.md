@@ -8,6 +8,8 @@
 
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 
+* [树的搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树的搜索)  
+
 * [回溯算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)   
 
 * [贪心算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) 
@@ -42,6 +44,8 @@
    * [最小生成树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小生成树)   
 
 * [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
+
+* [排序](https://github.com/SharingSource/LogicStack-LeetCode/wiki/排序)
 
 * [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
 
