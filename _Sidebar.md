@@ -57,6 +57,12 @@
 
 * [位运算](https://github.com/SharingSource/LogicStack-LeetCode/wiki/位运算) 
 
+* [字典树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/字典树) 
+
+* [博弈论](https://github.com/SharingSource/LogicStack-LeetCode/wiki/博弈论) 
+
+* [启发式搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/启发式搜索) 
+
 * 常见问题
    * [n 数之和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/n-数之和)   
    * [组合总和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/组合总和)   
