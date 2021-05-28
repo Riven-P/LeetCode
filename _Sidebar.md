@@ -14,7 +14,7 @@
    * [链表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%93%BE%E8%A1%A8)   
    * [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)  
    * [队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/队列) 
-   * [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A0%888)  
+   * [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/栈)  
 
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 
