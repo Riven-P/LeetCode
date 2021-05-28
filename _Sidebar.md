@@ -4,6 +4,7 @@
 3. [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 4. [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
 5. [线性 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E7%BA%BF%E6%80%A7-DP)
+2. [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)   
 6. [双指针](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%8F%8C%E6%8C%87%E9%92%88)  
 6. [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
 7. [回文串问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%9B%9E%E6%96%87%E4%B8%B2%E9%97%AE%E9%A2%98)
