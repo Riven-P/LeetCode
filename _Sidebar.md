@@ -1,6 +1,6 @@
 # 题型
-1. [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
-2. [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)   
+[DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
+[BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)   
 3. [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 4. [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
 5. [线性 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E7%BA%BF%E6%80%A7-DP)
