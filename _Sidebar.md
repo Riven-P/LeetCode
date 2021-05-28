@@ -22,6 +22,8 @@
 
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 
+* [数学](https://github.com/SharingSource/LogicStack-LeetCode/wiki/数学)
+
 * [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
 
 * [滑动窗口](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)  
