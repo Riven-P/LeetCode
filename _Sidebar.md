@@ -51,8 +51,6 @@
 
 * [子串匹配](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%AD%90%E4%B8%B2%E5%8C%B9%E9%85%8D)   
 
-* [快慢指针](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88) 
-
 * [位运算](https://github.com/SharingSource/LogicStack-LeetCode/wiki/位运算) 
 
 * 常见问题
