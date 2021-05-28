@@ -1,5 +1,5 @@
 # 题型
-[DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
+* [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
 [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)   
 3. [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 4. [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
