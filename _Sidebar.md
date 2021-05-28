@@ -6,6 +6,7 @@
 * 动态规划 
    * [记忆化搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)  
    * [线性 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E7%BA%BF%E6%80%A7-DP)
+   * [背包 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/背包-DP)
    * [序列 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/序列-DP)
    * [区间 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/区间-DP)
 
