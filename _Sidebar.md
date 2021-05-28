@@ -19,8 +19,6 @@
 
 * [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
 
-* [数学](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%95%B0%E7%BB%84)  
-
 * [模拟](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A8%A1%E6%8B%9F)  
 
 * [递归](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%80%92%E5%BD%92) 
