@@ -32,15 +32,17 @@
 
 * [贪心算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) 
 
-* [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)   
+* [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)  
+
+* [队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/队列) 
+
+* [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A0%888)  
 
 * [多路归并](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6)   
 
 * [子串匹配](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%AD%90%E4%B8%B2%E5%8C%B9%E9%85%8D)   
 
 * [快慢指针](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88)    
-
-* [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A0%888)  
 
 * [n 数之和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/n-%E6%95%B0%E4%B9%8B%E5%92%8C)   
 
