@@ -11,9 +11,7 @@
 
  
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
-
 * [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
-
 * [滑动窗口](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)  
 
 * [双指针](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%8F%8C%E6%8C%87%E9%92%88)  
