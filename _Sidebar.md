@@ -24,6 +24,10 @@
    * [差分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/差分)
    * [树状数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树状数组)
 
+* 图论最短路/最小生成树
+   * [最短路](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最短路)  
+   * [最小生成树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小生成树)   
+
 * [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
 
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
