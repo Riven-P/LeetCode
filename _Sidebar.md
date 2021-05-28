@@ -1,7 +1,7 @@
 ## 类别
 * 搜索
-   * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)  
+   * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
 
 * [记忆化搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)  
 
