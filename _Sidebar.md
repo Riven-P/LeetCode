@@ -1,4 +1,9 @@
 ## 类别
+
+* [模拟](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A8%A1%E6%8B%9F)  
+
+* [双指针](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%8F%8C%E6%8C%87%E9%92%88)  
+
 * 图论搜索
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)  
    * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
@@ -37,10 +42,6 @@
 * [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
 
 * [滑动窗口](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)  
-
-* [双指针](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%8F%8C%E6%8C%87%E9%92%88)  
-
-* [模拟](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A8%A1%E6%8B%9F)  
 
 * [回溯算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)   
 
