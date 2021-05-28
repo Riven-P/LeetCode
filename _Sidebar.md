@@ -1,5 +1,5 @@
 ## 类别
-* 搜索
+* 图论搜索
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)  
    * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
 
