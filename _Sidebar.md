@@ -17,6 +17,8 @@
    * [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)   
 
 * 区间求和
+   * [前缀和](https://github.com/SharingSource/LogicStack-LeetCode/wiki/前缀和)
+   * [树状数组]()
 
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 
