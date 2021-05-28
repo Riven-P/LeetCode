@@ -8,7 +8,19 @@
    * [线性 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E7%BA%BF%E6%80%A7-DP)
    * [序列 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/序列-DP)
    * [区间 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/区间-DP)
+
+* 数据结构
  
+   * [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
+
+   * [链表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%93%BE%E8%A1%A8)   
+
+   * [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)  
+
+   * [队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/队列) 
+
+   * [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A0%888)  
+
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 
 * [分治](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%88%86%E6%B2%BB)  
@@ -17,21 +29,11 @@
 
 * [双指针](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%8F%8C%E6%8C%87%E9%92%88)  
 
-* [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
-
 * [模拟](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A8%A1%E6%8B%9F)  
-
-* [链表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%93%BE%E8%A1%A8)   
 
 * [回溯算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)   
 
 * [贪心算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) 
-
-* [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)  
-
-* [队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/队列) 
-
-* [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A0%888)  
 
 * [多路归并](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6)   
 
