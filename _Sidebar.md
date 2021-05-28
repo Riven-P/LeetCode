@@ -21,8 +21,6 @@
 
 * [模拟](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A8%A1%E6%8B%9F)  
 
-* [递归](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%80%92%E5%BD%92) 
-
 * [链表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%93%BE%E8%A1%A8)   
 
 * [回溯算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)   
