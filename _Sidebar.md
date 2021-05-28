@@ -22,6 +22,8 @@
    * [前缀和](https://github.com/SharingSource/LogicStack-LeetCode/wiki/前缀和)
    * [树状数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树状数组)
 
+* [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
+
 * [二分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E4%BA%8C%E5%88%86)  
 
 * [数学](https://github.com/SharingSource/LogicStack-LeetCode/wiki/数学)
