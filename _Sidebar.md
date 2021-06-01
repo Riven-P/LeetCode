@@ -14,9 +14,13 @@
 
 * [贪心算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) 
 
-* 图论搜索
+* 递归 & 迭代
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)  
-   * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)   
+   * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)  
+
+* 图论搜索
+   * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-BFS)  
+   * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-DFS)   
 
 * 动态规划 
    * [记忆化搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)  
