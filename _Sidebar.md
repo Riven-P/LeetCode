@@ -67,6 +67,8 @@
 
 * [启发式搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/启发式搜索) 
 
+* [三分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/三分) 
+
 * 常见问题
    * [n 数之和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/n-数之和)   
    * [组合总和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/组合总和)   
