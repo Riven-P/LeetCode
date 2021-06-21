@@ -71,6 +71,8 @@
 
 * [二进制枚举](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二进制枚举) 
 
+* [打表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/打表)
+
 * 常见问题
    * [n 数之和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/n-数之和)   
    * [组合总和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/组合总和)   
