@@ -30,6 +30,7 @@
    * [区间 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/区间-DP)
 
 * 数据结构
+   * [二叉树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二叉树) 
    * [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
    * [链表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%93%BE%E8%A1%A8)   
    * [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/栈) 
