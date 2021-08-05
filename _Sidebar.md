@@ -18,9 +18,10 @@
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/BFS)  
    * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/DFS)  
 
-* 图论搜索
+* 图论
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-BFS)  
    * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-DFS)   
+   * [拓扑排序](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-拓扑排序)  
 
 * 动态规划 
    * [记忆化搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)  
