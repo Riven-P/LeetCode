@@ -29,6 +29,7 @@
    * [背包 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/背包-DP)
    * [序列 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/序列-DP)
    * [区间 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/区间-DP)
+   * [状压 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/状压-DP)
 
 * 数据结构
    * [二叉树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二叉树) 
