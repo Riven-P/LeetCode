@@ -69,6 +69,8 @@
 
 * [字典树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/字典树) 
 
+* [字符串哈希](https://github.com/SharingSource/LogicStack-LeetCode/wiki/字符串哈希) 
+
 * [博弈论](https://github.com/SharingSource/LogicStack-LeetCode/wiki/博弈论) 
 
 * [启发式搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/启发式搜索) 
