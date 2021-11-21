@@ -77,6 +77,8 @@
 
 * [三分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/三分) 
 
+* [洗牌算法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/洗牌算法) 
+
 * [二进制枚举](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二进制枚举) 
 
 * [矩阵快速幂](https://github.com/SharingSource/LogicStack-LeetCode/wiki/矩阵快速幂) 
