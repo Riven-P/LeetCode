@@ -81,6 +81,8 @@
 
 * [二进制枚举](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二进制枚举) 
 
+* [快速幂](https://github.com/SharingSource/LogicStack-LeetCode/wiki/快速幂) 
+
 * [矩阵快速幂](https://github.com/SharingSource/LogicStack-LeetCode/wiki/矩阵快速幂) 
 
 * [打表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/打表)
