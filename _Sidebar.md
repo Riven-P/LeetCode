@@ -87,9 +87,11 @@
 
 * [矩阵快速幂](https://github.com/SharingSource/LogicStack-LeetCode/wiki/矩阵快速幂) 
 
+* [找规律](https://github.com/SharingSource/LogicStack-LeetCode/wiki/找规律)
+
 * [打表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/打表)
 
-* [找规律](https://github.com/SharingSource/LogicStack-LeetCode/wiki/找规律)
+* [约瑟夫环](https://github.com/SharingSource/LogicStack-LeetCode/wiki/约瑟夫环)
 
 * 常见问题
    * [n 数之和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/n-数之和)   
