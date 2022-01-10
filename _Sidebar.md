@@ -93,6 +93,8 @@
 
 * [约瑟夫环](https://github.com/SharingSource/LogicStack-LeetCode/wiki/约瑟夫环)
 
+* [高精度](https://github.com/SharingSource/LogicStack-LeetCode/wiki/高精度)
+
 * 常见问题
    * [n 数之和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/n-数之和)   
    * [组合总和问题](https://github.com/SharingSource/LogicStack-LeetCode/wiki/组合总和)   
