@@ -36,6 +36,7 @@
 * 数据结构
    * [二叉树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二叉树) 
    * [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
+   * [红黑树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/红黑树)  
    * [链表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E9%93%BE%E8%A1%A8)   
    * [栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/栈) 
    * [单调栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/单调栈) 
