@@ -27,6 +27,8 @@
 
 * [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
 
+* [启发式搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/启发式搜索) 
+
 * 动态规划 
    * [记忆化搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)  
    * [线性 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E7%BA%BF%E6%80%A7-DP)
@@ -73,8 +75,6 @@
 * [后缀数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/后缀数组) 
 
 * [博弈论](https://github.com/SharingSource/LogicStack-LeetCode/wiki/博弈论) 
-
-* [启发式搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/启发式搜索) 
 
 * [三分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/三分) 
 
