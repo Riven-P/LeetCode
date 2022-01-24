@@ -22,6 +22,10 @@
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-BFS)  
    * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-DFS)   
    * [拓扑排序](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-拓扑排序)  
+   * [最短路](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最短路)  
+   * [最小生成树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小生成树)   
+
+* [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
 
 * 动态规划 
    * [记忆化搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)  
@@ -49,12 +53,6 @@
    * [差分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/差分)
    * [树状数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树状数组)
    * [线段树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/线段树)
-
-* 图论最短路/最小生成树
-   * [最短路](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最短路)  
-   * [最小生成树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小生成树)   
-
-* [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
 
 * [排序](https://github.com/SharingSource/LogicStack-LeetCode/wiki/排序)
 
