@@ -18,6 +18,7 @@
 | [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/binary-tree-tilt/solution/gong-shui-san-xie-jian-dan-er-cha-shu-di-ekz4/) | 简单 | 🤩🤩🤩🤩     |
 | [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/solution/gong-shui-san-xie-shu-de-sou-suo-yun-yon-pse1/) | 简单 | 🤩🤩🤩      |
 | [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/solution/by-ac_oier-ul7t/) | 简单 | 🤩🤩🤩      |
+| [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/construct-string-from-binary-tree/solution/by-ac_oier-i2sk/) | 简单 | 🤩🤩🤩🤩     |
 | [638. 大礼包](https://leetcode-cn.com/problems/shopping-offers/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/shopping-offers/solution/gong-shui-san-xie-yi-ti-shuang-jie-zhuan-qgk1/) | 中等 | 🤩🤩🤩🤩     |
 | [677. 键值映射](https://leetcode-cn.com/problems/map-sum-pairs/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/map-sum-pairs/solution/gong-shui-san-xie-jie-he-dfs-de-trie-yun-i4xa/) | 中等 | 🤩🤩🤩🤩     |
 | [690. 员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/employee-importance/solution/gong-shui-san-xie-yi-ti-shuang-jie-di-gu-s79x/) | 简单 | 🤩🤩🤩      |
@@ -33,4 +34,5 @@
 | [1723. 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/solution/gong-shui-san-xie-yi-ti-shuang-jie-jian-4epdd/) | 困难 | 🤩🤩🤩      |
 | [1766. 互质树](https://leetcode-cn.com/problems/tree-of-coprimes/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/tree-of-coprimes/solution/bu-tai-yi-yang-de-dfs-ji-lu-suo-you-zui-d3xeu/) | 困难 | 🤩🤩🤩🤩     |
 | [2044. 统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/by-ac_oier-dos6/) | 困难 | 🤩🤩🤩🤩     |
+
 
