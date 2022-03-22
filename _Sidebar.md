@@ -89,6 +89,8 @@
 
 * [找规律](https://github.com/SharingSource/LogicStack-LeetCode/wiki/找规律)
 
+* [脑筋急转弯](https://github.com/SharingSource/LogicStack-LeetCode/wiki/脑筋急转弯)
+
 * [打表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/打表)
 
 * [约瑟夫环](https://github.com/SharingSource/LogicStack-LeetCode/wiki/约瑟夫环)
