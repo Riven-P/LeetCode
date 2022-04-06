@@ -38,6 +38,7 @@
    * [状压 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/状压-DP)
    * [状态机 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/状态机-DP)
    * [数位 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/数位-DP)
+   * [树形 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树形-DP)
 
 * 数据结构
    * [树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树) 
