@@ -64,6 +64,8 @@
 
 * [数学](https://github.com/SharingSource/LogicStack-LeetCode/wiki/数学)
 
+* [计算几何](https://github.com/SharingSource/LogicStack-LeetCode/wiki/计算几何)
+
 * [容斥原理](https://github.com/SharingSource/LogicStack-LeetCode/wiki/容斥原理)
 
 * [多路归并](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6)   
