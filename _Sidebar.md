@@ -57,6 +57,7 @@
    * [差分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/差分)
    * [树状数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树状数组)
    * [线段树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/线段树)
+   * [分块](https://github.com/SharingSource/LogicStack-LeetCode/wiki/分块)
 
 * [排序](https://github.com/SharingSource/LogicStack-LeetCode/wiki/排序)
 
