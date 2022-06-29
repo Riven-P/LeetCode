@@ -20,7 +20,10 @@
 
 * 图论
    * [BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-BFS)  
-   * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-DFS)   
+   * [DFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-DFS) 
+   * [多源 BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-多源-BFS) 
+   * [双向 BFS](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-双向-BFS) 
+   * [迭代加深](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-迭代加深) 
    * [拓扑排序](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-拓扑排序)  
    * [最短路](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最短路)  
    * [最小生成树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小生成树)   
