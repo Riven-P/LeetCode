@@ -6,6 +6,7 @@
 | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/combination-sum/solution/dfs-hui-su-suan-fa-yi-ji-ru-he-que-ding-wpbo5/) | 中等 | 🤩🤩🤩🤩     |
 | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/combination-sum-ii/solution/dfs-hui-su-jie-fa-yi-ji-ru-he-pan-duan-s-xlwy/) | 中等 | 🤩🤩🤩🤩     |
 | [211. 添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/solution/gong-shui-san-xie-yi-ti-shuang-jie-er-we-un94/) | 中等 | 🤩🤩🤩🤩🤩    |
+| [241. 为运算表达式设计优先级](https://leetcode.cn/problems/different-ways-to-add-parentheses/) | [LeetCode 题解链接](https://leetcode.cn/problems/different-ways-to-add-parentheses/solution/by-ac_oier-z07i/) | 中等 | 🤩🤩🤩🤩🤩    |
 | [282. 给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/expression-add-operators/solution/gong-shui-san-xie-hui-su-suan-fa-yun-yon-nl9z/) | 困难 | 🤩🤩🤩🤩     |
 | [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/remove-invalid-parentheses/solution/yi-fen-zhong-nei-kan-dong-jiang-gua-hao-aya6k/) | 困难 | 🤩🤩🤩🤩     |
 | [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/minimum-height-trees/solution/by-ac_oier-7xio/) | 中等 | 🤩🤩🤩🤩🤩    |
@@ -47,4 +48,5 @@
 | [1766. 互质树](https://leetcode-cn.com/problems/tree-of-coprimes/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/tree-of-coprimes/solution/bu-tai-yi-yang-de-dfs-ji-lu-suo-you-zui-d3xeu/) | 困难 | 🤩🤩🤩🤩     |
 | [2044. 统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/by-ac_oier-dos6/) | 困难 | 🤩🤩🤩🤩     |
 | [面试题 04.06. 后继者](https://leetcode.cn/problems/successor-lcci/) | [LeetCode 题解链接](https://leetcode.cn/problems/successor-lcci/solution/by-ac_oier-xib5/) | 中等 | 🤩🤩🤩🤩🤩    |
+
 
