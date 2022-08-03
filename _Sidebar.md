@@ -85,6 +85,8 @@
 
 * [后缀数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/后缀数组) 
 
+* [最小表示法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小表示法) 
+
 * [博弈论](https://github.com/SharingSource/LogicStack-LeetCode/wiki/博弈论) 
 
 * [三分](https://github.com/SharingSource/LogicStack-LeetCode/wiki/三分) 
