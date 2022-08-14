@@ -43,7 +43,7 @@
    * [数位 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/数位-DP)
    * [树形 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树形-DP)
 
-* 数据结构
+* 基本数据结构
    * [树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树) 
    * [二叉树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二叉树) 
    * [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
