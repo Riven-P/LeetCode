@@ -48,6 +48,7 @@
 | [993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/cousins-in-binary-tree/solution/gong-shui-san-xie-shu-de-sou-suo-dfs-bfs-b200/) | 简单 | 🤩🤩       |
 | [1022. 从根到叶的二进制数之和](https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/) | [LeetCode 题解链接](https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/solution/by-ac_oier-1905/) | 简单 | 🤩🤩🤩🤩     |
 | [1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/solution/gong-shui-san-xie-yi-ti-san-jie-jian-zhi-nfeb/) | 中等 | 🤩🤩🤩      |
+| [1302. 层数最深叶子节点的和](https://leetcode.cn/problems/deepest-leaves-sum/) | [LeetCode 题解链接](https://leetcode.cn/problems/deepest-leaves-sum/solution/by-ac_oier-srst/) | 中等 | 🤩🤩🤩🤩     |
 | [1609. 奇偶树](https://leetcode-cn.com/problems/even-odd-tree/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/even-odd-tree/solution/gong-shui-san-xie-yi-ti-shuang-jie-bfs-d-kuyi/) | 中等 | 🤩🤩🤩🤩🤩    |
 | [1723. 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/solution/gong-shui-san-xie-yi-ti-shuang-jie-jian-4epdd/) | 困难 | 🤩🤩🤩      |
 | [1766. 互质树](https://leetcode-cn.com/problems/tree-of-coprimes/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/tree-of-coprimes/solution/bu-tai-yi-yang-de-dfs-ji-lu-suo-you-zui-d3xeu/) | 困难 | 🤩🤩🤩🤩     |
@@ -57,4 +58,5 @@
 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [LeetCode 题解链接](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/solution/by-ac_oier-s9jz/) | 简单 | 🤩🤩🤩      |
 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [LeetCode 题解链接](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/solution/by-ac_oier-98od/) | 中等 | 🤩🤩🤩🤩🤩    |
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [LeetCode 题解链接](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/by-ac_oier-3ehr/) | 中等 | 🤩🤩🤩🤩🤩    |
+
 
