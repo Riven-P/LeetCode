@@ -43,7 +43,7 @@
    * [数位 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/数位-DP)
    * [树形 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树形-DP)
 
-* 基本数据结构
+* 常见数据结构
    * [树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树) 
    * [二叉树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二叉树) 
    * [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
@@ -53,7 +53,10 @@
    * [单调栈](https://github.com/SharingSource/LogicStack-LeetCode/wiki/单调栈) 
    * [队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/队列) 
    * [单调队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/单调队列) 
-   * [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)   
+   * [堆](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%A0%86)  
+   * [字典树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/字典树) 
+   * [字符串哈希](https://github.com/SharingSource/LogicStack-LeetCode/wiki/字符串哈希) 
+   * [后缀数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/后缀数组)  
 
 * 区间求和
    * [前缀和](https://github.com/SharingSource/LogicStack-LeetCode/wiki/前缀和)
@@ -78,12 +81,6 @@
 * [子串匹配](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%AD%90%E4%B8%B2%E5%8C%B9%E9%85%8D)   
 
 * [位运算](https://github.com/SharingSource/LogicStack-LeetCode/wiki/位运算) 
-
-* [字典树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/字典树) 
-
-* [字符串哈希](https://github.com/SharingSource/LogicStack-LeetCode/wiki/字符串哈希) 
-
-* [后缀数组](https://github.com/SharingSource/LogicStack-LeetCode/wiki/后缀数组) 
 
 * [最小表示法](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小表示法) 
 
