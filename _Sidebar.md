@@ -27,10 +27,8 @@
    * [拓扑排序](https://github.com/SharingSource/LogicStack-LeetCode/wiki/图论-拓扑排序)  
    * [最短路](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最短路)  
    * [最小生成树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/最小生成树)   
-
-* [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
-
-* [启发式搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/启发式搜索) 
+   * [并查集](https://github.com/SharingSource/LogicStack-LeetCode/wiki/并查集)
+   * [启发式搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/启发式搜索) 
 
 * 动态规划 
    * [记忆化搜索](https://github.com/SharingSource/LogicStack-LeetCode/wiki/记忆化搜索)  
@@ -43,7 +41,7 @@
    * [数位 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/数位-DP)
    * [树形 DP](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树形-DP)
 
-* 常见数据结构
+* 数据结构
    * [树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/树) 
    * [二叉树](https://github.com/SharingSource/LogicStack-LeetCode/wiki/二叉树) 
    * [哈希表](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)  
