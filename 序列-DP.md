@@ -9,6 +9,7 @@
 | [522. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/) | [LeetCode 题解链接](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/solution/by-ac_oier-vuez/) | 中等 | 🤩🤩🤩🤩🤩    |
 | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/gong-shui-san-xie-cong-liang-chong-xu-li-wqv7/) | 中等 | 🤩🤩🤩🤩     |
 | [629. K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/k-inverse-pairs-array/solution/gong-shui-san-xie-yi-dao-xu-lie-dp-zhuan-tm01/) | 中等 | 🤩🤩🤩🤩🤩    |
+| [646. 最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | [LeetCode 题解链接](https://leetcode.cn/problems/maximum-length-of-pair-chain/solution/by-ac_oier-z91l/) | 中等 | 🤩🤩🤩🤩🤩    |
 | [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/solution/gong-shui-san-xie-lis-de-fang-an-shu-wen-obuz/) | 中等 | 🤩🤩🤩🤩     |
 | [689. 三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/gong-shui-san-xie-jie-he-qian-zhui-he-de-ancx/) | 困难 | 🤩🤩🤩🤩     |
 | [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/delete-and-earn/solution/gong-shui-san-xie-zhuan-huan-wei-xu-lie-6c9t0/) | 中等 | 🤩🤩🤩🤩🤩    |
@@ -22,4 +23,5 @@
 | [1537. 最大得分](https://leetcode.cn/problems/get-the-maximum-score/) | [LeetCode 题解链接](https://leetcode.cn/problems/get-the-maximum-score/solution/by-ac_oier-ht78/) | 困难 | 🤩🤩🤩🤩     |
 | [1713. 得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/solution/gong-shui-san-xie-noxiang-xin-ke-xue-xi-oj7yu/) | 困难 | 🤩🤩🤩🤩🤩    |
 | [1751. 最多可以参加的会议数目 II](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended-ii/solution/po-su-dp-er-fen-dp-jie-fa-by-ac_oier-88du/) | 困难 | 🤩🤩🤩🤩     |
+
 
